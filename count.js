@@ -6,3 +6,8 @@
 // 6. If the char count is between 141 and 160 chars, display Textable
 // 7. If the char count is more than 160 chars, display Just Send an Email
 
+jQuery(function() {
+    $(document).ready(function() {
+        
+        });
+});
